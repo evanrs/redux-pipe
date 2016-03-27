@@ -1,0 +1,25 @@
+{
+  "name": "redux-pipe",
+  "version": "0.0.0",
+  "description": "Consume, react, and transform actions in redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evanrs/redux-pipe.git"
+  },
+  "keywords": [
+    "redux",
+    "pipe",
+    "observable",
+    "rx"
+  ],
+  "author": "Evan Schneider",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evanrs/redux-pipe/issues"
+  },
+  "homepage": "https://github.com/evanrs/redux-pipe#readme"
+}
